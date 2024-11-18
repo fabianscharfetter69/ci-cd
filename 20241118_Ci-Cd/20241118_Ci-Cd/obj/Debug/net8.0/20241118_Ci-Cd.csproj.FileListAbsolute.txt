@@ -1,0 +1,64 @@
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\appsettings.json
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\20241118_Ci-Cd.exe
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\20241118_Ci-Cd.deps.json
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\20241118_Ci-Cd.runtimeconfig.json
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\20241118_Ci-Cd.dll
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\20241118_Ci-Cd.pdb
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.AssemblyInfoInputs.cache
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.AssemblyInfo.cs
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets\msbuild.20241118_Ci-Cd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets\msbuild.build.20241118_Ci-Cd.props
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.20241118_Ci-Cd.props
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.20241118_Ci-Cd.props
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\scopedcss\bundle\20241118_Ci-Cd.styles.css
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118.41D8E7F7.Up2Date
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.dll
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\refint\20241118_Ci-Cd.dll
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.pdb
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.genruntimeconfig.cache
+C:\Users\fabia\OneDrive - HTL Saalfelden\5AHINF\POS\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\ref\20241118_Ci-Cd.dll
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\appsettings.json
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\20241118_Ci-Cd.exe
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\20241118_Ci-Cd.deps.json
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\20241118_Ci-Cd.runtimeconfig.json
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\20241118_Ci-Cd.dll
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\20241118_Ci-Cd.pdb
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.AssemblyInfoInputs.cache
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.AssemblyInfo.cs
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets\msbuild.20241118_Ci-Cd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets\msbuild.build.20241118_Ci-Cd.props
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.20241118_Ci-Cd.props
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.20241118_Ci-Cd.props
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\scopedcss\bundle\20241118_Ci-Cd.styles.css
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118.41D8E7F7.Up2Date
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.dll
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\refint\20241118_Ci-Cd.dll
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.pdb
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\20241118_Ci-Cd.genruntimeconfig.cache
+C:\Users\fabia\OneDrive\Desktop\project\Ci-CD\ci-cd\20241118_Ci-Cd\20241118_Ci-Cd\obj\Debug\net8.0\ref\20241118_Ci-Cd.dll
