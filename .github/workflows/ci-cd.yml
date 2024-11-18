@@ -34,6 +34,6 @@ jobs:
             - name: Deploy to Azure Web Apps 👌
               uses: azure/webapps-deploy@v2
               with:
-                app-name: WeatherForMe2
+                app-name: CiCd-Scharfetter
                 publish-profile: ${{ secrets.CICDSCHARFETTER }}
                 package: ./out
