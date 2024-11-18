@@ -36,4 +36,4 @@ jobs:
               with:
                 app-name: CiCd-Scharfetter
                 publish-profile: ${{ secrets.CICDSCHARFETTER }}
-                package: ./out
+                package: .out
