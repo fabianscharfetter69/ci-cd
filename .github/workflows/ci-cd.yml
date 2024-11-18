@@ -28,5 +28,12 @@ jobs:
             - name: Build App 🚢
               run: dotnet build -c Release --no-restore 20241118_Ci-Cd/20241118_Ci-Cd.sln
 
-            - name: Publish App
+            - name: Publish App 🐷
               run: dotnet publish -c Release -o .out 20241118_Ci-Cd/20241118_Ci-Cd.sln
+
+            - name: Deploy to Azure Web Apps 👌
+              uses: azure/webapps-deploy@v2
+              with:
+                app-name: WeatherForMe2
+                publish-profile: ${{ secrets.CICDSCHARFETTER }}
+                package: ./out
